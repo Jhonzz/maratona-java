@@ -1,23 +1,19 @@
 package academy.devdojo.maratonajava.javacore.Vio.test;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class FileReaderTest01 {
+public class BufferedReaderTest01 {
     public static void main(String[] args) {
         File file = new File("file.txt");
-        try (FileReader fr = new FileReader(file)) {
-//            char[] in = new char[1000];
-//            int size = fr.read(in);
-//            System.out.println(size);
-//
-//            for (char c : in) {
-//                System.out.print(c);
-//            }
-            int i;
-            while ((i=fr.read()) != -1){                //acaba em -1, então enquanto for diferente o fluxo n para
-                System.out.print((char) i); //cast
+
+        try (FileReader fr = new FileReader(file);
+            BufferedReader br = new BufferedReader(fr)){
+            String linha;
+            while ((linha = br.readLine()) != null){
+                System.out.println(linha);
             }
 
         } catch (IOException e) {

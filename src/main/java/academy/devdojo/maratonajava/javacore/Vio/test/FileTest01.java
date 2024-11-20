@@ -1,16 +1,14 @@
-package academy.devdojo.maratonajava.javacore;
+package academy.devdojo.maratonajava.javacore.Vio.test;
 
 import java.io.File;
 import java.io.IOException;
 import java.time.Instant;
 import java.time.ZoneId;
-import java.util.Date;
 
-public class VioTest01 {
+public class FileTest01 {
     public static void main(String[] args) {
         File file = new File("file.text");
         try {
-
             boolean isCreated = file.createNewFile();
             System.out.println("Created: " +isCreated);
             System.out.println("path: " +file.getPath());

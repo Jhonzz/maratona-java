@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ»ğûÿÿÿÿ
+b
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(Ôú¬¡
+E	java:S106"+Replace this use of System.out by a logger.(öûğûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¿ÊŠ”
+@	java:S106 "+Replace this use of System.out by a logger.(œæ§ğ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(Ìî‚¬
+@	java:S106$"+Replace this use of System.out by a logger.(‰é«ø
+@	java:S106%"+Replace this use of System.out by a logger.(åô¾ˆ
+@	java:S106&"+Replace this use of System.out by a logger.(ÜØøÑ
+@	java:S106'"+Replace this use of System.out by a logger.(­¶Úù
+E	java:S106*"+Replace this use of System.out by a logger.(ÙÓøşÿÿÿÿ

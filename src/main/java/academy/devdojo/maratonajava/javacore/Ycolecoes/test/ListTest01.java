@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Ycolecoes.domain;
+package academy.devdojo.maratonajava.javacore.Ycolecoes.test;
 
 import java.util.ArrayList;
 import java.util.List;

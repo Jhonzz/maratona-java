@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.SformatacaoTest;
+package academy.devdojo.maratonajava.javacore.Sformatacao.test;
 
 import java.text.NumberFormat;
 import java.text.ParseException;

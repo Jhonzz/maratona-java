@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.SformatacaoTest;
+package academy.devdojo.maratonajava.javacore.Sformatacao.test;
 
 // FORMAT É SEMPRE TRANSFORMANDO DE UM OBJETO PARA UMA STRING
 // JÁ PARSE É QUANDO ESTÁ TRANSFORMANDO DE UMA STRING PARA UM OBJETO

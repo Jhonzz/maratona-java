@@ -1,9 +1,7 @@
 package academy.devdojo.maratonajava.javacore.Rdates.test;
 
-import java.sql.SQLOutput;
 import java.text.DateFormat;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.Locale;
 
 public class LocaleTest01 {

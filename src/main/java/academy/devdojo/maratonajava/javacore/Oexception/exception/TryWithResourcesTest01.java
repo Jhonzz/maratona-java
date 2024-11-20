@@ -24,7 +24,6 @@ public class TryWithResourcesTest01 {
         }
     }
 
-
     public static void lerArquivo2() {
         Reader reader = null;
 

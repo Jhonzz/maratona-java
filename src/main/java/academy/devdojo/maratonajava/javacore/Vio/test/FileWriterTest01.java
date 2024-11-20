@@ -9,11 +9,11 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class FileWriter01 {
+public class FileWriterTest01 {
     public static void main(String[] args) {
         File file = new File("file.txt");
 
-        try (FileWriter fw = new FileWriter(file, true)) {
+        try (FileWriter fw = new FileWriter(file)) {
             fw.write("Testando write\n Continuando teste, mas na linha debaixo\n");
             fw.flush();
 
