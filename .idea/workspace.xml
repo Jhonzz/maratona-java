@@ -5,68 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb1a208-3fa5-479a-8918-f64b8ac3d455" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/NavigableSetTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/SetTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/MapTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/MapTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/MapTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/NavigableMapTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/domain/Barco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/domain/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/service/BarcoRentavelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/service/CarroRentavelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test/ClasseGenericaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test/GenericsTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35107e2adcd8ddf4b7514cdd405bf2b54b6ebc25" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35107e2adcd8ddf4b7514cdd405bf2b54b6ebc25" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1db41479f33647a8eb369fce347e588a77828d2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1db41479f33647a8eb369fce347e588a77828d2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Oexception/exception/TryWithResourcesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Oexception/exception/TryWithResourcesTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Rdates/test/LocaleTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Rdates/test/LocaleTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Rdates/test/TemporalAdjusterTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Rdates/test/TemporalAdjusterTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Rdates/test/TemporalAdjustersTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Rdates/test/TemporalAdjustersTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Rdates/test/ZoneTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Rdates/test/ZoneTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateFormatTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateFormatTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateTimeFormatterTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateTimeFormatterTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/LocaleTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/LocaleTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/LocaleTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/LocaleTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/NumberFormatTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/NumberFormatTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/NumberFormatTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/NumberFormatTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/SimpleDateFormatTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Sformatacao/test/SimpleDateFormatTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Tresourcebundle/test/ResourceBundleTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Tresourcebundle/test/ResourceBundleTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/ScannerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/ScannerTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/ScannerTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Uregex/test/ScannerTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/BufferedReaderTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/BufferedReaderTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/BufferedWriterTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/BufferedWriterTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/FileReaderTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/FileReaderTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/FileTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/FileTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/FileTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/FileTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/FileWriterTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Vio/test/FileWriterTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/BasicFileAttributesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/BasicFileAttributesTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/BasicFileAttributesTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/BasicFileAttributesTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/DirectoryStreamTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/DirectoryStreamTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/DosFileAttributesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/DosFileAttributesTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/NormalizeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/NormalizeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PathMatcherTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PathMatcherTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PathMatcherTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PathMatcherTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PosixFileAttributesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PosixFileAttributesTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/RelativizeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/RelativizeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/ResolveTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/ResolveTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/SimpleFileVisitorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/SimpleFileVisitorTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/SimpleFileVisitorTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/SimpleFileVisitorTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/ZipOutputStreamTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/ZipOutputStreamTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Xserializacao/domain/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Xserializacao/domain/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Xserializacao/domain/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Xserializacao/domain/Turma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Xserializacao/test/SerializacaoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Xserializacao/test/SerializacaoTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Manga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Manga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Smartphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/BinarySearchTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/BinarySearchTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListSortTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListSortTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/MangaSortTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/MangaSortTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/SmartphoneListTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/SmartphoneListTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Ycolecoes/test/NavigableSetTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Ycolecoes/test/NavigableSetTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +58,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClasseGenericaTest01.executor": "Run",
+    "Application.GenericsTest01.executor": "Run",
+    "Application.MapTest01.executor": "Run",
+    "Application.MapTest02.executor": "Run",
+    "Application.MapTest03.executor": "Run",
+    "Application.NavigableMapTest01.executor": "Run",
     "Application.NavigableSetTest01.executor": "Run",
     "Application.SetTest01.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
@@ -144,11 +105,11 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
+      <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Vio.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Uregex.test" />
       <recent name="academy.devdojo.maratonajava.Sformatacao.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -159,9 +120,48 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NavigableSetTest01">
-    <configuration name="BinarySearchTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.BinarySearchTest01" />
+  <component name="RunManager" selected="Application.ClasseGenericaTest02">
+    <configuration name="ClasseGenericaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClasseGenericaTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.GenericsTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.MapTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -173,51 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListSortTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.ListSortTest01" />
+    <configuration name="NavigableMapTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.NavigableMapTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MangaSortTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.MangaSortTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NavigableSetTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.NavigableSetTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZoneTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.ZoneTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Rdates.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NavigableSetTest01" />
-        <item itemvalue="Application.ZoneTest01" />
-        <item itemvalue="Application.BinarySearchTest01" />
-        <item itemvalue="Application.MangaSortTest01" />
-        <item itemvalue="Application.ListSortTest01" />
+        <item itemvalue="Application.ClasseGenericaTest02" />
+        <item itemvalue="Application.ClasseGenericaTest01" />
+        <item itemvalue="Application.GenericsTest01" />
+        <item itemvalue="Application.NavigableMapTest01" />
+        <item itemvalue="Application.MapTest03" />
       </list>
     </recent_temporary>
   </component>

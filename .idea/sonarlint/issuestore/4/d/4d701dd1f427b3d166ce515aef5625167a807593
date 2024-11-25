@@ -1,0 +1,15 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆÜØ¨8ö‹íÚ´2J$af4c7272-305b-4c7e-a64e-3b40ad9a67d6
+‚
+java:S1854":Remove this useless assignment to local variable "manga4".(ãƒæúÿÿÿÿ8ú‹íÚ´2J$fe6dba09-1a6e-4d64-853d-3e21b9f5202a
+}
+java:S1854":Remove this useless assignment to local variable "manga3".(ÌÇ÷à8ú‹íÚ´2J$e489aa4b-c898-475f-8c57-80d9e561afde
+|
+java:S1854":Remove this useless assignment to local variable "manga1".(—èÒb8ú‹íÚ´2J$e139ee62-6551-4245-8b3c-5e967853ad42
+m
+java:S1481"+Remove this unused "manga1" local variable.(—èÒb8û‹íÚ´2J$1ae2e4fd-a12a-45f6-83e9-b9d61a5bd408
+n
+java:S1481"+Remove this unused "manga3" local variable.(ÌÇ÷à8ü‹íÚ´2J$9bacced2-17e2-4e92-959b-278c161282ff
+s
+java:S1481"+Remove this unused "manga4" local variable.(ãƒæúÿÿÿÿ8ü‹íÚ´2J$0e60cb05-3a06-4f18-b563-879f5677966b
+r	java:S106"+Replace this use of System.out by a logger.(äÄß«üÿÿÿÿ8ş‹íÚ´2J$91f30487-23cc-4d17-a130-b05218710103

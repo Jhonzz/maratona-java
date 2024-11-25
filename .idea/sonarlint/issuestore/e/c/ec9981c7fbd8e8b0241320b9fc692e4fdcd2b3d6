@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆÜØ¨8Û½°Ş´2J$950f9c26-010b-4082-8833-b95561805cdb
+m	java:S106"+Replace this use of System.out by a logger.(µˆœÑ8á½°Ş´2J$447b7738-817b-4637-91ef-0661b41482f4
+|
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(½Ö²’ûÿÿÿÿ8â½°Ş´2J$0b1ec19b-147f-4832-ac17-bd8d1650e6e2
+m	java:S106"+Replace this use of System.out by a logger.(Ü’Šâ8â½°Ş´2J$a6dc8b39-99db-45cf-bec7-32e069676209
+r	java:S106"+Replace this use of System.out by a logger.(Å˜õçüÿÿÿÿ8â½°Ş´2J$d269457b-0578-4ee2-850c-4661224406a0
+m	java:S106"+Replace this use of System.out by a logger.(‡›–8ã½°Ş´2J$aef7ebd2-6c8b-49db-b362-a5057639e59f
+r	java:S106"+Replace this use of System.out by a logger.(†·§ÿÿÿÿÿ8ã½°Ş´2J$3823f7b1-5398-4edb-b447-433fec924e4e
+m	java:S106"+Replace this use of System.out by a logger.(ÅòŸˆ8ã½°Ş´2J$bd4c0f9e-5162-4882-a42e-d980c2b46810
