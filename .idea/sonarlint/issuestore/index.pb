@@ -31,12 +31,6 @@ Tsrc/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Consumidor
 Qsrc/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/MapTest03.java,3\f\3f7d681b8ff79203e089f36fe7c2fcab36291a2c
 ä
 Zsrc/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/NavigableMapTest01.java,1\4\1496cb9ece9b0b838955bd8560b7311097d43e16
-ã
-[src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/ZGenerics/GenericsTest01.java,c\3\c3cb60277ced7146699cf0e21789ade45b793cce
-Å
-Qsrc/main/java/academy/devdojo/maratonajava/javacore/ZGenerics/GenericsTest01.java,c\5\c55ec705866bee32d213b2404cac738893a49401
-Å
-Qsrc/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/GenericsTest01.java,a\1\a1adb76507132a2ad28880571553507a967b4884
 Ü
 Vsrc/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test/GenericsTest01.java,9\1\9198345d0d87dbad427f47c93472ab6040051422
 
@@ -51,3 +45,9 @@ _src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/service/CarroRent
 _src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/service/BarcoRentavelService.java,b\b\bbaaf7793b9baaf226d87c9af559cd24d7f39c82
 å
 \src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test/ClasseGenericaTest02.java,e\a\ea64c1d3d5684076e065d52f366aed542f660607
+à
+Xsrc/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/service/RentalService.java,a\0\a0e91c8570e63c6510f746adfc741b10f16f1a4c
+å
+\src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test/ClasseGenericaTest03.java,3\a\3aaa57e662bd1eee3f5d83d0630e6246e30ac4af
+å
+\src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test/MetodoGenericoTest01.java,4\8\4887cf42807c7147336ffe880f96a0d4bafc0556
