@@ -5,20 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb1a208-3fa5-479a-8918-f64b8ac3d455" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/service/RentalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test/ClasseGenericaTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test/MetodoGenericoTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1adb76507132a2ad28880571553507a967b4884" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas/AnonymousClassesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas/AnonymousClassesTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas/OuterClassesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas/OuterClassesTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas/OuterClassesTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4887cf42807c7147336ffe880f96a0d4bafc0556" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4887cf42807c7147336ffe880f96a0d4bafc0556" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/988340aec9c98cc8ef319c9a3ab042aee813688c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/988340aec9c98cc8ef319c9a3ab042aee813688c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0e91c8570e63c6510f746adfc741b10f16f1a4c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0e91c8570e63c6510f746adfc741b10f16f1a4c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbaaf7793b9baaf226d87c9af559cd24d7f39c82" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbaaf7793b9baaf226d87c9af559cd24d7f39c82" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3cb60277ced7146699cf0e21789ade45b793cce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c55ec705866bee32d213b2404cac738893a49401" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea64c1d3d5684076e065d52f366aed542f660607" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea64c1d3d5684076e065d52f366aed542f660607" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/1/a1adb76507132a2ad28880571553507a967b4884" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/3/c3cb60277ced7146699cf0e21789ade45b793cce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/5/c55ec705866bee32d213b2404cac738893a49401" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/domain/Barco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/domain/Barco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/domain/Barco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/domain/Barco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/test/MetodoGenericoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/test/MetodoGenericoTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnonymousClassesTest01 (1).executor": "Run",
+    "Application.AnonymousClassesTest02.executor": "Run",
     "Application.ClasseGenericaTest01.executor": "Run",
     "Application.ClasseGenericaTest02.executor": "Run",
     "Application.ClasseGenericaTest03.executor": "Run",
@@ -65,6 +68,9 @@
     "Application.MetodoGenericoTest01.executor": "Run",
     "Application.NavigableMapTest01.executor": "Run",
     "Application.NavigableSetTest01.executor": "Run",
+    "Application.OuterClassesTest01 (1).executor": "Run",
+    "Application.OuterClassesTest01.executor": "Run",
+    "Application.OuterClassesTest02.executor": "Run",
     "Application.SetTest01.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -74,7 +80,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-15",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/IdeaProjects/maratona-java",
+    "last_opened_file_path": "C:/IdeaProjects/maratona-java/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,11 +94,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\maratona-java\src\main\java\academy\devdojo\maratonajava\javacore\ZZAclassesInternas" />
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\folder\subpasta2" />
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\folder" />
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\src\main\java\academy\devdojo\maratonajava\javacore\Wnio\test" />
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\src\academy\devdojo\maratonajava\javacore" />
-      <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\src\academy\devdojo\maratonajava\Sformatacao\test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\folder\subpasta1" />
@@ -120,13 +126,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MetodoGenericoTest01">
-    <configuration name="ClasseGenericaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest01" />
+  <component name="RunManager" selected="Application.OuterClassesTest03">
+    <configuration name="AnonymousClassesTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.AnonymousClassesTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClasseGenericaTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest02" />
+    <configuration name="AnonymousClassesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.AnonymousClassesTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClasseGenericaTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest03" />
+    <configuration name="AnonymousClassesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.AnonymousClassesTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.GenericsTest01" />
+    <configuration name="OuterClassesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.OuterClassesTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetodoGenericoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.MetodoGenericoTest01" />
+    <configuration name="OuterClassesTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.OuterClassesTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MetodoGenericoTest01" />
-        <item itemvalue="Application.ClasseGenericaTest03" />
-        <item itemvalue="Application.ClasseGenericaTest02" />
-        <item itemvalue="Application.ClasseGenericaTest01" />
-        <item itemvalue="Application.GenericsTest01" />
+        <item itemvalue="Application.OuterClassesTest03" />
+        <item itemvalue="Application.AnonymousClassesTest02" />
+        <item itemvalue="Application.AnonymousClassesTest01 (1)" />
+        <item itemvalue="Application.AnonymousClassesTest01" />
+        <item itemvalue="Application.OuterClassesTest02" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,4 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ϊ›ΉΙϋÿÿÿÿ
+
+java:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ε½σύÿÿÿÿ

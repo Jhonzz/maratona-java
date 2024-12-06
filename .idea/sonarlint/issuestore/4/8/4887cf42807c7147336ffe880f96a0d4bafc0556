@@ -1,7 +1,7 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ¾ÚŒüÿÿÿÿ8úµµ¢¸2J$ead81e4e-4a90-428c-952e-bdf56be38cd5
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ¾ÚŒüÿÿÿÿ8úµµ¢¸2J$ccc1533a-75b8-41fe-9dd2-64ff754e167c
 Ÿ
-java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(µ“ºé8¥êº¢¸2J$a1392c8f-d811-4e29-8f28-78f5a7a6fd43
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(µ“ºé8¥êº¢¸2J$91226f40-3f5f-4fd5-bbe0-1b0a468778c8
 r	java:S106
-"+Replace this use of System.out by a logger.(Ô‹€òùÿÿÿÿ8ÿµµ¢¸2J$65b2b5f2-4337-4b89-8c82-b8c01a58b24e
-X	java:S125"<This block of commented-out lines of code should be removed.(ÊÍéÈ8ÇÓÝ¢¸2
+"+Replace this use of System.out by a logger.(Ô‹€òùÿÿÿÿ8ÿµµ¢¸2J$5e140c33-d32a-47b4-9953-9e9db085b61b
+~	java:S125"<This block of commented-out lines of code should be removed.(ÊÍéÈ8ÇÓÝ¢¸2J$d05e4269-efdd-4a27-8be0-8ed04c99509f
