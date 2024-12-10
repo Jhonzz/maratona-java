@@ -5,21 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb1a208-3fa5-479a-8918-f64b8ac3d455" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas/AnonymousClassesTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas/AnonymousClassesTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas/OuterClassesTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas/OuterClassesTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZAclassesInternas/OuterClassesTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4887cf42807c7147336ffe880f96a0d4bafc0556" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4887cf42807c7147336ffe880f96a0d4bafc0556" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/988340aec9c98cc8ef319c9a3ab042aee813688c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/988340aec9c98cc8ef319c9a3ab042aee813688c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0e91c8570e63c6510f746adfc741b10f16f1a4c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0e91c8570e63c6510f746adfc741b10f16f1a4c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbaaf7793b9baaf226d87c9af559cd24d7f39c82" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbaaf7793b9baaf226d87c9af559cd24d7f39c82" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZBcomportamento/dominio/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZBcomportamento/interfaces/CarPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParametroTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParametroTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParametroTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0181043a0ed5a14861eb3d391f5dd2d54e97832" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0181043a0ed5a14861eb3d391f5dd2d54e97832" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/domain/Barco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/domain/Barco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/domain/Barco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/domain/Barco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/test/MetodoGenericoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/test/MetodoGenericoTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +55,9 @@
     "Application.ClasseGenericaTest01.executor": "Run",
     "Application.ClasseGenericaTest02.executor": "Run",
     "Application.ClasseGenericaTest03.executor": "Run",
+    "Application.ComportamentoPorParametroTest01.executor": "Run",
+    "Application.ComportamentoPorParametroTest02.executor": "Run",
+    "Application.ComportamentoPorParametroTest03.executor": "Run",
     "Application.GenericsTest01.executor": "Run",
     "Application.MapTest01.executor": "Run",
     "Application.MapTest02.executor": "Run",
@@ -71,6 +68,7 @@
     "Application.OuterClassesTest01 (1).executor": "Run",
     "Application.OuterClassesTest01.executor": "Run",
     "Application.OuterClassesTest02.executor": "Run",
+    "Application.OuterClassesTest03.executor": "Run",
     "Application.SetTest01.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -111,11 +109,11 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
       <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Vio.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Uregex.test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -126,33 +124,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OuterClassesTest03">
-    <configuration name="AnonymousClassesTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.AnonymousClassesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnonymousClassesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.AnonymousClassesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ComportamentoPorParametroTest03">
     <configuration name="AnonymousClassesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.AnonymousClassesTest02" />
       <module name="maratona-java" />
@@ -166,12 +138,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClassesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.OuterClassesTest02" />
+    <configuration name="ComportamentoPorParametroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComportamentoPorParametroTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComportamentoPorParametroTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest03" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComportamentoPorParametroTest03" />
+        <item itemvalue="Application.ComportamentoPorParametroTest02" />
+        <item itemvalue="Application.ComportamentoPorParametroTest01" />
         <item itemvalue="Application.OuterClassesTest03" />
         <item itemvalue="Application.AnonymousClassesTest02" />
-        <item itemvalue="Application.AnonymousClassesTest01 (1)" />
-        <item itemvalue="Application.AnonymousClassesTest01" />
-        <item itemvalue="Application.OuterClassesTest02" />
       </list>
     </recent_temporary>
   </component>
