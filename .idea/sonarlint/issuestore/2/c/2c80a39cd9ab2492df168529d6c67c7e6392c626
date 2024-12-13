@@ -1,0 +1,5 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡¨«»8ñ³ÙÅ»2J$b8ca5a04-26d0-4dc7-9f83-e2c3e14627e1
+ 
+java:S1612"XReplace this lambda with method reference 'animeComparator::compareByEpisodesNonStatic'.(‹©›ıÿÿÿÿ8ı‹ğå»2J$5cc6dd84-a6fa-456b-9220-17bb12daca03
+m	java:S106"+Replace this use of System.out by a logger.(ëµüè8ö³ÙÅ»2J$8766f7ed-591e-4094-b535-fd079a6d6f17

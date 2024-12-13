@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb1a208-3fa5-479a-8918-f64b8ac3d455" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZBcomportamento/dominio/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZBcomportamento/interfaces/CarPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParametroTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParametroTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParametroTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0181043a0ed5a14861eb3d391f5dd2d54e97832" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0181043a0ed5a14861eb3d391f5dd2d54e97832" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/service/AnimeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/test/LambdaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/test/LambdaTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/test/MethodReference03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/test/MethodReferenceTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/test/MethodReferenceTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/test/MethodReferenceTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZClambdas/test/MethodReferenceTest04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -59,9 +62,14 @@
     "Application.ComportamentoPorParametroTest02.executor": "Run",
     "Application.ComportamentoPorParametroTest03.executor": "Run",
     "Application.GenericsTest01.executor": "Run",
+    "Application.LambdaTest01.executor": "Run",
+    "Application.LambdaTest02.executor": "Run",
     "Application.MapTest01.executor": "Run",
     "Application.MapTest02.executor": "Run",
     "Application.MapTest03.executor": "Run",
+    "Application.MethodReferenceTest01.executor": "Run",
+    "Application.MethodReferenceTest03.executor": "Run",
+    "Application.MethodReferenceTest04.executor": "Run",
     "Application.MetodoGenericoTest01.executor": "Run",
     "Application.NavigableMapTest01.executor": "Run",
     "Application.NavigableSetTest01.executor": "Run",
@@ -124,13 +132,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComportamentoPorParametroTest03">
-    <configuration name="AnonymousClassesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.AnonymousClassesTest02" />
+  <component name="RunManager" selected="Application.MethodReferenceTest04">
+    <configuration name="LambdaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.LambdaTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComportamentoPorParametroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest01" />
+    <configuration name="LambdaTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.LambdaTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComportamentoPorParametroTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest02" />
+    <configuration name="MethodReferenceTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.MethodReferenceTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComportamentoPorParametroTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest03" />
+    <configuration name="MethodReferenceTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.MethodReferenceTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClassesTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.OuterClassesTest03" />
+    <configuration name="MethodReferenceTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.MethodReferenceTest04" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesInternas.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComportamentoPorParametroTest03" />
-        <item itemvalue="Application.ComportamentoPorParametroTest02" />
-        <item itemvalue="Application.ComportamentoPorParametroTest01" />
-        <item itemvalue="Application.OuterClassesTest03" />
-        <item itemvalue="Application.AnonymousClassesTest02" />
+        <item itemvalue="Application.MethodReferenceTest04" />
+        <item itemvalue="Application.MethodReferenceTest03" />
+        <item itemvalue="Application.MethodReferenceTest01" />
+        <item itemvalue="Application.LambdaTest02" />
+        <item itemvalue="Application.LambdaTest01" />
       </list>
     </recent_temporary>
   </component>

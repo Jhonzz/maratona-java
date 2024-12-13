@@ -1,0 +1,18 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡¨«»8¦ü›Š¼2J$f965cf6b-9aa7-4b54-b8de-8872c2a0eaf5
+†
+java:S1854"CRemove this useless assignment to local variable "animeBiFunction".(þ¨»Å8©ü›Š¼2J$9e65a69e-20c5-48ee-9a97-d256a1adc8e6
+‹
+java:S1854"CRemove this useless assignment to local variable "animeComparator".( Ð¶°þÿÿÿÿ8©ü›Š¼2J$3e53c4fb-1654-40b5-b7da-087c36d34d54
+ˆ
+java:S1854"FRemove this useless assignment to local variable "newAnimeComparator".(Æ‘»a8©ü›Š¼2J$3853ff20-db65-4598-ab1b-0c5e7ec520c9
+y
+java:S1481"7Remove this unused "newAnimeComparator" local variable.(Æ‘»a8ªü›Š¼2J$9c42aac0-b44f-4e96-9997-c9e4b240dd3b
+|
+java:S1481"4Remove this unused "animeComparator" local variable.( Ð¶°þÿÿÿÿ8ªü›Š¼2J$cca26088-2d15-48c6-b6be-5adea62a21d6
+m	java:S106"+Replace this use of System.out by a logger.(ëµüè8«ü›Š¼2J$816c06ad-847c-4fc0-af9e-c33d36c8a900
+z
+java:S1612"7Replace this lambda with method reference 'Anime::new'.(þ¨»Å8¬ü›Š¼2J$938e9fa9-7d25-469d-8f28-9028bcf262ab
+w
+java:S1481"4Remove this unused "animeBiFunction" local variable.(þ¨»Å8¬ü›Š¼2J$904a86c8-dfd5-487e-a7d4-2ba017cc9f86
+r	java:S106"+Replace this use of System.out by a logger.(ë—Ý¾ýÿÿÿÿ8›»œŠ¼2J$013f1219-3a1e-4cf5-9f6f-a38d5d94f72c

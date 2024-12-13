@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡¨«»8é·¶»2J$cfe49537-9aaf-4440-a322-774e88dfdbdf
+‰
+java:S1612"AReplace this lambda with method reference 'CharSequence::length'.(¡¡³‰úÿÿÿÿ8í·¶»2J$60b78ec9-b859-4f7b-a0bc-a9786d01a5b6
+ˆ
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(º–ì»øÿÿÿÿ8ô·¶»2J$a15b9b7a-76e5-4a92-928a-186bf84cb436
+m	java:S106"+Replace this use of System.out by a logger.(¸šİ8ô·¶»2J$02ff4aa8-bd47-4f3f-8bde-095ec1ffc103
+L	java:S106"+Replace this use of System.out by a logger.(Äªù¯ıÿÿÿÿ8Èà¹»2
