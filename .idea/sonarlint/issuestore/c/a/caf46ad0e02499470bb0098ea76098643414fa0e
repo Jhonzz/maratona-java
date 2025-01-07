@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒüÚ8å×¦ëÂ2J$a7d0637b-b26e-4b73-9d10-f9c74f776285
+a
+java:S1640"Convert this Map to an EnumMap.(”Ş«q8æ×¦ëÂ2J$e2738c62-ced1-408c-9d0c-f318dc345b82
+r	java:S106)"+Replace this use of System.out by a logger.(ŸŞõ°şÿÿÿÿ8ì×¦ëÂ2J$56dffa29-356d-4b21-8858-90a74bdc93fa
+m	java:S106+"+Replace this use of System.out by a logger.(öÈÛ¡8”§ëÂ2J$87570c11-eec3-4fb9-8df1-c0a538d135b1
+r	java:S106."+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8ôÆ©ëÂ2J$26ade861-baa5-4fad-9a5d-e29a3a07301a
+
+java:S1128
+"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8î×¦ëÂ2J$d354c708-d098-4c85-a4e6-34f5ed559c26

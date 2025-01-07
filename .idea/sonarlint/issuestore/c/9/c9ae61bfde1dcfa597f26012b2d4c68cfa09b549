@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒüÚ8¡Ï”ŸÀ2J$c14420ba-3a40-4116-864e-68e1280bf4e2
+m	java:S106"+Replace this use of System.out by a logger.(­ ‡8¬Ï”ŸÀ2J$35e2493a-a545-48f6-a3d3-46b1d184f4cf
+r	java:S106"+Replace this use of System.out by a logger.(ˆ²´€ùÿÿÿÿ8¬Ï”ŸÀ2J$f1a41358-f0f0-43c4-a05b-aaa1f104806d
+m	java:S106"+Replace this use of System.out by a logger.(øü×8¬Ï”ŸÀ2J$cf6a5bcd-934b-4193-9d7f-d1a57aa18c45
+m	java:S106"+Replace this use of System.out by a logger.(êóÈ‹8­Ï”ŸÀ2J$57ed46dc-8c56-4760-9327-98ba562b6c20
+r	java:S106#"+Replace this use of System.out by a logger.(šê’œıÿÿÿÿ8®Ï”ŸÀ2J$8b35453b-72c9-44e3-ae17-fda541b93388
+r	java:S106'"+Replace this use of System.out by a logger.(šê’œıÿÿÿÿ8çù£ŸÀ2J$6c0fbc0c-dfa1-4557-9533-46308dd1397b
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8®Ï”ŸÀ2J$69644813-2a3a-456f-bee3-000d6e1f16b3

@@ -1,0 +1,23 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒüÚ8ùîıùÃ2J$f858f791-413c-4c8e-acbe-54d08eade0af
+m	java:S106"+Replace this use of System.out by a logger.(×ş„ 8ÿîıùÃ2J$2e37ad06-d077-4ef2-97ad-740157259ffa
+r	java:S106"+Replace this use of System.out by a logger.(ïµ¦ûÿÿÿÿ8€ïıùÃ2J$31d7b984-562c-4936-a7cd-d077bf6d4110
+r	java:S106!"+Replace this use of System.out by a logger.(¼›Û½ûÿÿÿÿ8ïıùÃ2J$053b8877-5638-40d5-bc4f-1c14f0cca6ce
+m	java:S106%"+Replace this use of System.out by a logger.(’şı´8‚ïıùÃ2J$011e58d7-29d2-4e1d-ba82-96196e47193b
+r	java:S106)"+Replace this use of System.out by a logger.(¼›Û½ûÿÿÿÿ8ƒïıùÃ2J$038fe8af-2bae-4902-8be2-4436ce94f606
+m	java:S106-"+Replace this use of System.out by a logger.(Ø“İş8„ïıùÃ2J$29b9ae5b-6dbf-4c8c-aa09-0643e57c0d6c
+r	java:S1061"+Replace this use of System.out by a logger.(¼›Û½ûÿÿÿÿ8…ïıùÃ2J$0c1275fb-2996-42ea-be34-6a9486dc1dc8
+m	java:S1064"+Replace this use of System.out by a logger.(İ¬Á—8†ïıùÃ2J$54b55187-da88-452c-b0e5-d6910fdbedd9
+r	java:S1068"+Replace this use of System.out by a logger.(¼›Û½ûÿÿÿÿ8‡ïıùÃ2J$277db846-c9f2-43d8-9505-f058a6195765
+r	java:S106;"+Replace this use of System.out by a logger.(Ÿè…ùÿÿÿÿ8¬ü‚úÃ2J$0fea2d88-48be-4d30-b46f-8689553ad10e
+r	java:S106?"+Replace this use of System.out by a logger.(¼›Û½ûÿÿÿÿ8­ü‚úÃ2J$375f93b0-cf5b-4eea-a69f-99a416dfd06e
+¦
+java:S1128"^Remove this unused import 'academy.devdojo.maratonajava.javacore.ZZEstreams.dominio.Category'.(¬€ôóÿÿÿÿÿ8Ñ‘„úÃ2J$e63ebdce-5483-4612-ad54-aaecdf3458d0
+£
+java:S1128"`Remove this unused import 'academy.devdojo.maratonajava.javacore.ZZEstreams.dominio.LightNovel'.(õÁ“±8Ñ‘„úÃ2J$8fa67f61-bef8-4ffb-bfac-9d76d2717307
+¢
+java:S1128"_Remove this unused import 'academy.devdojo.maratonajava.javacore.ZZEstreams.dominio.Promotion'.(ƒ¸µ¸8Ñ‘„úÃ2J$85e87c2d-26ca-4445-92cf-59f0626b0db6
+i
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8Ñ‘„úÃ2J$78fa84d1-ce66-4ada-87ef-f52adbc4bcd1
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ñ‘„úÃ2J$b4c837ed-d397-41fc-9a7f-58709a15af56

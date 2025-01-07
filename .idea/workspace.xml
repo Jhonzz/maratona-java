@@ -5,13 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb1a208-3fa5-479a-8918-f64b8ac3d455" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZDoptional/dominio/Manga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZDoptional/repositorio/MangaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZDoptional/test/OptionalTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZDoptional/test/OptionalTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/dominio/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/dominio/LightNovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/dominio/Promotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05b79d6ea36b138ad5d3796c72000c1eda7b70c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/416a09da38fffbc3aedef67f501274b07efda5d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b852ae30263ce7206b47d365a4a69b377db8730" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94daf943e7f3fbe8ed10d76d1b014baa4eb065dc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94daf943e7f3fbe8ed10d76d1b014baa4eb065dc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2308e8913b60f14fc24434c60df46ba2a3c60c1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/5/05b79d6ea36b138ad5d3796c72000c1eda7b70c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/1/416a09da38fffbc3aedef67f501274b07efda5d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/b/6b852ae30263ce7206b47d365a4a69b377db8730" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/2/f2308e8913b60f14fc24434c60df46ba2a3c60c1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +48,8 @@
       <list>
         <option value="AnnotationType" />
         <option value="HTML File" />
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -75,6 +100,22 @@
     "Application.OuterClassesTest02.executor": "Run",
     "Application.OuterClassesTest03.executor": "Run",
     "Application.SetTest01.executor": "Run",
+    "Application.StreamTest01.executor": "Run",
+    "Application.StreamTest02.executor": "Run",
+    "Application.StreamTest03.executor": "Run",
+    "Application.StreamTest04.executor": "Run",
+    "Application.StreamTest05.executor": "Run",
+    "Application.StreamTest06.executor": "Run",
+    "Application.StreamTest07.executor": "Run",
+    "Application.StreamTest08.executor": "Run",
+    "Application.StreamTest09.executor": "Run",
+    "Application.StreamTest10.executor": "Run",
+    "Application.StreamTest11.executor": "Run",
+    "Application.StreamTest12.executor": "Run",
+    "Application.StreamTest13.executor": "Run",
+    "Application.StreamTest14.executor": "Run",
+    "Application.StreamTest15.executor": "Run",
+    "Application.StreamTest16.executor": "Run",
     "Application.teste.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -84,7 +125,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-15",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/IdeaProjects/APIRestESpringBootVendas/gestao-vendas",
+    "last_opened_file_path": "C:/IdeaProjects/liveCode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -115,11 +156,11 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.ZZEstreams.test" />
       <recent name="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
       <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Vio.test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -130,13 +171,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OptionalTest02">
-    <configuration name="MethodReferenceTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.MethodReferenceTest03" />
+  <component name="RunManager" selected="Application.StreamTest16">
+    <configuration name="StreamTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest12" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReferenceTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.MethodReferenceTest04" />
+    <configuration name="StreamTest13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest13" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZDoptional.test.OptionalTest01" />
+    <configuration name="StreamTest14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest14" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZDoptional.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZDoptional.test.OptionalTest02" />
+    <configuration name="StreamTest15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest15" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZDoptional.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZDoptional.test.teste" />
+    <configuration name="StreamTest16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest16" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZDoptional.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OptionalTest02" />
-        <item itemvalue="Application.OptionalTest01" />
-        <item itemvalue="Application.teste" />
-        <item itemvalue="Application.MethodReferenceTest04" />
-        <item itemvalue="Application.MethodReferenceTest03" />
+        <item itemvalue="Application.StreamTest16" />
+        <item itemvalue="Application.StreamTest15" />
+        <item itemvalue="Application.StreamTest14" />
+        <item itemvalue="Application.StreamTest13" />
+        <item itemvalue="Application.StreamTest12" />
       </list>
     </recent_temporary>
   </component>

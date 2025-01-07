@@ -1,11 +1,0 @@
-
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•Ò£·8µ–µ¸¼2J$7ec76ee8-3853-4ecb-8a8a-5b5c44d5cdf3
-”
-java:S1192
-"LDefine a constant instead of duplicating this literal "Dragon ball" 3 times.(Ý·ÑÈùÿÿÿÿ8¶–µ¸¼2J$132c8c21-014d-48a3-886b-1d02621ce0c0
-u
-java:S1144"-Remove this unused private "findById" method.(£âÓÔüÿÿÿÿ8¹–µ¸¼2J$742f163e-974f-4bb0-b4ab-bc3461913642
-r
-java:S1144"/Remove this unused private "findByName" method.(Ã¶‰‡8¹–µ¸¼2J$f3afa3f3-9130-4add-b99a-085422bbcd70
-‚
-java:S1118	":Add a private constructor to hide the implicit public one.(Âó—îþÿÿÿÿ8¹–µ¸¼2J$4542e300-54c3-49bd-b379-19dbe65e4953

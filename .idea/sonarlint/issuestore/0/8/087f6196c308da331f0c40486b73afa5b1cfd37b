@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒüÚ8ÉÁÄ³¿2J$d572a047-3937-47b1-9f77-0af22597704f
+‚
+java:S1854":Remove this useless assignment to local variable "stream".(ÏÅŞªüÿÿÿÿ8ÍÁÄ³¿2J$2f3dd4e2-f52d-440d-bca7-968abb7ebb32
+ƒ
+java:S1854";Remove this useless assignment to local variable "collect".(ëÆÇûÿÿÿÿ8ÍÁÄ³¿2J$d55d21e9-94cd-45a5-8049-94792a5eab35
+m	java:S106"+Replace this use of System.out by a logger.(•¯ÅÓ8ÎÁÄ³¿2J$fe2291de-7dd5-4514-bcc6-a518a0137b31
+t
+java:S1481",Remove this unused "collect" local variable.(ëÆÇûÿÿÿÿ8ÏÁÄ³¿2J$6853fd91-ce10-404c-947d-69016f07a4cd
+s
+java:S1481"+Remove this unused "stream" local variable.(ÏÅŞªüÿÿÿÿ8ÏÁÄ³¿2J$2ecaacad-1653-4e03-9213-0a0ff08cf9a3
+r	java:S106"+Replace this use of System.out by a logger.(¾±¥½ûÿÿÿÿ8ĞÁÄ³¿2J$004aaab3-aecf-4511-9cdd-f477dfcb7f1c
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÎêÄ³¿2J$d4ad2058-4a75-4949-bf1f-6c57e4c5e9dc
