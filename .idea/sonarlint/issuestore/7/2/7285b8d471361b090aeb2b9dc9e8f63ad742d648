@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊƒúŠ8ûôŠ“Ä2J$5f1215ba-4af5-493d-bccf-e4a6a9bff31e
+r	java:S106"+Replace this use of System.out by a logger.(›Óğ°şÿÿÿÿ8€õŠ“Ä2J$e3991f00-b9fd-4bd4-805d-ebccfeddf2f4
+r	java:S106"+Replace this use of System.out by a logger.(–í˜úÿÿÿÿ8€õŠ“Ä2J$ba33b435-af7d-40b8-ab20-ce1938f1e219
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8€õŠ“Ä2J$2ddab702-a1e1-4701-80ee-82c24fc710ba
+r	java:S106"+Replace this use of System.out by a logger.(›Óğ°şÿÿÿÿ8úÄ¡Ä2J$20e8add1-c62b-4d9b-bfb2-4954b077d12b
+r	java:S106!"+Replace this use of System.out by a logger.(–í˜úÿÿÿÿ8‘úÄ¡Ä2J$56f17434-c0c7-4d96-b10f-2f8d1904726e
+r	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‚õŠ“Ä2J$ec9ed505-04bb-4995-9133-68b71bae8278
+¡
+java:S2142'"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8’úÄ¡Ä2J$7acbe7ea-ec99-4036-a587-52f01088d40b
+ƒ	java:S1250"<This block of commented-out lines of code should be removed.(ãš¨üÿÿÿÿ8œúÄ¡Ä2J$d3b4dcf1-ccfc-4478-a5a7-2ea995ff0154
+r	java:S106>"+Replace this use of System.out by a logger.(é¯şñøÿÿÿÿ8œúÄ¡Ä2J$ffe198c4-d46e-42ad-bc22-2570f0ee622f

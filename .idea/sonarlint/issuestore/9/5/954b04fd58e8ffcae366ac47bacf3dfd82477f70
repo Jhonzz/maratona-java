@@ -1,0 +1,13 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊƒúŠ8šÒÊÄ2
+x
+java:S1192
+"[Define a constant instead of duplicating this literal "Thread 1: Segurando lock 1" 3 times.(ÛÉÚ–8ƒšÒÊÄ2
+G	java:S106
+"+Replace this use of System.out by a logger.(ÛÉÚ–8‡šÒÊÄ2
+L	java:S106"+Replace this use of System.out by a logger.(ªş§øÿÿÿÿ8‡šÒÊÄ2
+G	java:S106"+Replace this use of System.out by a logger.(ÛÉÚ–8‡šÒÊÄ2
+L	java:S106"+Replace this use of System.out by a logger.(ªş§øÿÿÿÿ8‡šÒÊÄ2
+L	java:S106"+Replace this use of System.out by a logger.(Óˆ¨†ÿÿÿÿÿ8‡šÒÊÄ2
+L	java:S106"+Replace this use of System.out by a logger.(İùÖ·ÿÿÿÿÿ8‡šÒÊÄ2
+G	java:S106"+Replace this use of System.out by a logger.(ÛÉÚ–8ˆšÒÊÄ2

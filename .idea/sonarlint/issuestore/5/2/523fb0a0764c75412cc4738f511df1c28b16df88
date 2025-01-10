@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊƒúŠ8ëÊæ½Ä2J$27c1dfb6-936e-4ed7-8f7a-c96fda74cbdf
+
+java:S1854	"GRemove this useless assignment to local variable "threadAccountTest01".(¯ì¯èüÿÿÿÿ8îÊæ½Ä2J$b28ed68c-54f3-4943-a07f-e08f7fa75773
+€
+java:S1481	"8Remove this unused "threadAccountTest01" local variable.(¯ì¯èüÿÿÿÿ8îÊæ½Ä2J$d893909b-c9de-4d1d-9abd-88e5b9ec4761
+r	java:S106"+Replace this use of System.out by a logger.(£¦¢«øÿÿÿÿ8ğÊæ½Ä2J$1dad2ce0-f951-4031-9796-28c5bc261d1c
+m	java:S106"+Replace this use of System.out by a logger.(—’äó8†Ëæ½Ä2J$6823cd5c-fdad-409e-aab6-b8910be02316
+r	java:S106"+Replace this use of System.out by a logger.(»Œ¸şÿÿÿÿ8†Ëæ½Ä2J$a50c63b9-ab8f-4f16-afcb-286901af0578
+m	java:S106"+Replace this use of System.out by a logger.(ìò÷Ê8†Ëæ½Ä2J$5a5e0b7f-475b-4575-abc9-d870c2e32bd6
+l	java:S106!"+Replace this use of System.out by a logger.(ıŸË98‚Íì½Ä2J$ee99d539-cbb6-43ce-86c0-29c82ff6c7fa
+r	java:S106#"+Replace this use of System.out by a logger.(‹ò±ûÿÿÿÿ8—ûğ½Ä2J$96c56465-1038-40a9-8d84-e5a0828ee0b9

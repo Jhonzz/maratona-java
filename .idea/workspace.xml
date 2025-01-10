@@ -5,38 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb1a208-3fa5-479a-8918-f64b8ac3d455" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/dominio/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/dominio/LightNovel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/dominio/Promotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05b79d6ea36b138ad5d3796c72000c1eda7b70c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/416a09da38fffbc3aedef67f501274b07efda5d9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b852ae30263ce7206b47d365a4a69b377db8730" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94daf943e7f3fbe8ed10d76d1b014baa4eb065dc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94daf943e7f3fbe8ed10d76d1b014baa4eb065dc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2308e8913b60f14fc24434c60df46ba2a3c60c1" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/dominio/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/dominio/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/service/EmailDeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/test/DeadLockTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/test/EmailDeliveryTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadAccountTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadSafeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadsTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadsTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/5/05b79d6ea36b138ad5d3796c72000c1eda7b70c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/1/416a09da38fffbc3aedef67f501274b07efda5d9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/b/6b852ae30263ce7206b47d365a4a69b377db8730" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/2/f2308e8913b60f14fc24434c60df46ba2a3c60c1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +61,8 @@
     "Application.ComportamentoPorParametroTest01.executor": "Run",
     "Application.ComportamentoPorParametroTest02.executor": "Run",
     "Application.ComportamentoPorParametroTest03.executor": "Run",
+    "Application.DeadLockTest01.executor": "Run",
+    "Application.EmailDeliveryTest01.executor": "Run",
     "Application.GenericsTest01.executor": "Run",
     "Application.LambdaTest01.executor": "Run",
     "Application.LambdaTest02.executor": "Run",
@@ -116,6 +98,17 @@
     "Application.StreamTest14.executor": "Run",
     "Application.StreamTest15.executor": "Run",
     "Application.StreamTest16.executor": "Run",
+    "Application.ThreadAccountTest01.executor": "Run",
+    "Application.ThreadSafeTest01 (1).executor": "Run",
+    "Application.ThreadSafeTest01.executor": "Run",
+    "Application.ThreadsTest01 (1).executor": "Run",
+    "Application.ThreadsTest01 (2).executor": "Run",
+    "Application.ThreadsTest01.executor": "Run",
+    "Application.ThreadsTest02 (1).executor": "Run",
+    "Application.ThreadsTest02 (2).executor": "Run",
+    "Application.ThreadsTest02 (3).executor": "Debug",
+    "Application.ThreadsTest02 (4).executor": "Run",
+    "Application.ThreadsTest02.executor": "Run",
     "Application.teste.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -125,7 +118,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-15",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/IdeaProjects/liveCode",
+    "last_opened_file_path": "C:/IdeaProjects/maratona-java/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -139,11 +132,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\maratona-java\src\main\java\academy\devdojo\maratonajava\javacore\ZZFthreads" />
       <recent name="C:\IdeaProjects\maratona-java\src\main\java\academy\devdojo\maratonajava\javacore\ZZAclassesInternas" />
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\folder\subpasta2" />
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\folder" />
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\src\main\java\academy\devdojo\maratonajava\javacore\Wnio\test" />
-      <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\src\academy\devdojo\maratonajava\javacore" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\folder\subpasta1" />
@@ -171,13 +164,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamTest16">
-    <configuration name="StreamTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest12" />
+  <component name="RunManager" selected="Application.EmailDeliveryTest01">
+    <configuration name="DeadLockTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.DeadLockTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest13" />
+    <configuration name="EmailDeliveryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.EmailDeliveryTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest14" />
+    <configuration name="ThreadAccountTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadAccountTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest15" />
+    <configuration name="ThreadSafeTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadSafeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest16" />
+    <configuration name="ThreadSafeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadSafeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamTest16" />
-        <item itemvalue="Application.StreamTest15" />
-        <item itemvalue="Application.StreamTest14" />
-        <item itemvalue="Application.StreamTest13" />
-        <item itemvalue="Application.StreamTest12" />
+        <item itemvalue="Application.EmailDeliveryTest01" />
+        <item itemvalue="Application.DeadLockTest01" />
+        <item itemvalue="Application.ThreadSafeTest01 (1)" />
+        <item itemvalue="Application.ThreadSafeTest01" />
+        <item itemvalue="Application.ThreadAccountTest01" />
       </list>
     </recent_temporary>
   </component>
