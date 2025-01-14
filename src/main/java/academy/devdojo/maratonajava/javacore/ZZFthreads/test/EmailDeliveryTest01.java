@@ -4,7 +4,6 @@ import academy.devdojo.maratonajava.javacore.ZZFthreads.dominio.Members;
 import academy.devdojo.maratonajava.javacore.ZZFthreads.service.EmailDeliveryService;
 
 import javax.swing.*;
-import java.lang.reflect.Member;
 
 public class EmailDeliveryTest01 {
     public static void main(String[] args) {

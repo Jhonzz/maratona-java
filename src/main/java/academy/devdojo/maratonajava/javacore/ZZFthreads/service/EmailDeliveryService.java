@@ -2,8 +2,6 @@ package academy.devdojo.maratonajava.javacore.ZZFthreads.service;
 
 import academy.devdojo.maratonajava.javacore.ZZFthreads.dominio.Members;
 
-import java.lang.reflect.Member;
-
 public class EmailDeliveryService implements Runnable {
     private final Members members;
 

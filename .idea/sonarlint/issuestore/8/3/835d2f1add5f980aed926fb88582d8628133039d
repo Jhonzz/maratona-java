@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍìØ¦úÿÿÿÿ8€É‹Æ2J$1af56c38-746d-4260-a20d-44d3a808e7b5
+•
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹£È8–°¢‹Æ2J$32214e0a-4eb7-4e75-972b-c57bbc97a3d7
+¡
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8„É‹Æ2J$4ad12c5d-5d95-4d19-bad9-7c9424e4cf1f
+|
+java:S2168"9Remove this dangerous instance of double-checked locking.(°8™°¢‹Æ2J$ee2a9631-55b2-4a22-ae43-ce795209396f
+k
+java:S1068
+"(Remove this unused "name" private field.(Ú§×œ8ˆÉ‹Æ2J$6816392d-852d-4b63-a7c1-ac09de32a8bb
