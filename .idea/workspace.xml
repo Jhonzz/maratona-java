@@ -5,32 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb1a208-3fa5-479a-8918-f64b8ac3d455" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/AtomicIntegerTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/AirCraftSingletonEager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/AirCraftSingletonLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/Aircraft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/AircraftSingletonEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/CurrencyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/ReportDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/test/AirCraftSingletonEagerTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/test/AirCraftSingletonLazyTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/test/AirCraftTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/test/AircraftSingletonEnumTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/test/BuildPatternTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/test/CurrencyFactoryTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/test/DataTransferObjectTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bbf10faeb4a4946388fac17f60c9e539da1ec87" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bbf10faeb4a4946388fac17f60c9e539da1ec87" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b69cbc2f7f3e5b35e52dc3b95bab2e1fbf3e7e93" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b69cbc2f7f3e5b35e52dc3b95bab2e1fbf3e7e93" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/conn/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/dominio/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/repository/ProducerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/service/ProducerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/test/ConnectionFactoryTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages_en_US.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/service/EmailDeliveryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/service/EmailDeliveryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/test/EmailDeliveryTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads/test/EmailDeliveryTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZFthreads/service/EmailDeliveryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZFthreads/service/EmailDeliveryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZFthreads/test/EmailDeliveryTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZFthreads/test/EmailDeliveryTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/messages_en_US.properties" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/messages_en_US_pt_BR.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages_en_US_pt_BR.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/Real.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/Real.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/USDollar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZHpadroesDeProjeto/dominio/USDollar.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,95 +55,99 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AirCraftSingletonEagerTest01.executor": "Run",
-    "Application.AirCraftSingletonLazyTest01.executor": "Run",
-    "Application.AircraftSingletonEnumTest01.executor": "Run",
-    "Application.AnonymousClassesTest01 (1).executor": "Run",
-    "Application.AnonymousClassesTest02.executor": "Run",
-    "Application.AtomicIntegerTest01 (1).executor": "Run",
-    "Application.AtomicIntegerTest01 (2).executor": "Run",
-    "Application.AtomicIntegerTest01 (3).executor": "Run",
-    "Application.AtomicIntegerTest01 (4).executor": "Run",
-    "Application.AtomicIntegerTest01.executor": "Run",
-    "Application.BuildPatternTest01.executor": "Run",
-    "Application.ClasseGenericaTest01.executor": "Run",
-    "Application.ClasseGenericaTest02.executor": "Run",
-    "Application.ClasseGenericaTest03.executor": "Run",
-    "Application.ComportamentoPorParametroTest01.executor": "Run",
-    "Application.ComportamentoPorParametroTest02.executor": "Run",
-    "Application.ComportamentoPorParametroTest03.executor": "Run",
-    "Application.CurrencyFactoryTest01.executor": "Run",
-    "Application.DeadLockTest01.executor": "Run",
-    "Application.EmailDeliveryTest01.executor": "Run",
-    "Application.GenericsTest01.executor": "Run",
-    "Application.LambdaTest01.executor": "Run",
-    "Application.LambdaTest02.executor": "Run",
-    "Application.MapTest01.executor": "Run",
-    "Application.MapTest02.executor": "Run",
-    "Application.MapTest03.executor": "Run",
-    "Application.MethodReferenceTest01.executor": "Run",
-    "Application.MethodReferenceTest03.executor": "Run",
-    "Application.MethodReferenceTest04.executor": "Run",
-    "Application.MetodoGenericoTest01.executor": "Run",
-    "Application.NavigableMapTest01.executor": "Run",
-    "Application.NavigableSetTest01.executor": "Run",
-    "Application.OptionalTest01.executor": "Run",
-    "Application.OptionalTest02.executor": "Run",
-    "Application.OuterClassesTest01 (1).executor": "Run",
-    "Application.OuterClassesTest01.executor": "Run",
-    "Application.OuterClassesTest02.executor": "Run",
-    "Application.OuterClassesTest03.executor": "Run",
-    "Application.SetTest01.executor": "Run",
-    "Application.StreamTest01.executor": "Run",
-    "Application.StreamTest02.executor": "Run",
-    "Application.StreamTest03.executor": "Run",
-    "Application.StreamTest04.executor": "Run",
-    "Application.StreamTest05.executor": "Run",
-    "Application.StreamTest06.executor": "Run",
-    "Application.StreamTest07.executor": "Run",
-    "Application.StreamTest08.executor": "Run",
-    "Application.StreamTest09.executor": "Run",
-    "Application.StreamTest10.executor": "Run",
-    "Application.StreamTest11.executor": "Run",
-    "Application.StreamTest12.executor": "Run",
-    "Application.StreamTest13.executor": "Run",
-    "Application.StreamTest14.executor": "Run",
-    "Application.StreamTest15.executor": "Run",
-    "Application.StreamTest16.executor": "Run",
-    "Application.ThreadAccountTest01.executor": "Run",
-    "Application.ThreadSafeTest01 (1).executor": "Run",
-    "Application.ThreadSafeTest01.executor": "Run",
-    "Application.ThreadsTest01 (1).executor": "Run",
-    "Application.ThreadsTest01 (2).executor": "Run",
-    "Application.ThreadsTest01.executor": "Run",
-    "Application.ThreadsTest02 (1).executor": "Run",
-    "Application.ThreadsTest02 (2).executor": "Run",
-    "Application.ThreadsTest02 (3).executor": "Debug",
-    "Application.ThreadsTest02 (4).executor": "Run",
-    "Application.ThreadsTest02.executor": "Run",
-    "Application.teste.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "corretto-15",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/IdeaProjects/maratona-java/src/main/java/academy/devdojo/maratonajava/javacore/ZZFthreads",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AirCraftSingletonEagerTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AirCraftSingletonLazyTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AircraftSingletonEnumTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnonymousClassesTest01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnonymousClassesTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtomicIntegerTest01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtomicIntegerTest01 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtomicIntegerTest01 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtomicIntegerTest01 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtomicIntegerTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuildPatternTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClasseGenericaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClasseGenericaTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClasseGenericaTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComportamentoPorParametroTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComportamentoPorParametroTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComportamentoPorParametroTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConnectionFactoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConnectionFactoryTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurrencyFactoryTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTransferObjectTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeadLockTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmailDeliveryTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericsTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReferenceTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReferenceTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReferenceTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MetodoGenericoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NavigableMapTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NavigableSetTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionalTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionalTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassesTest01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassesTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassesTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassesTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResourceBundleTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadAccountTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadSafeTest01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadSafeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadsTest01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadsTest01 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadsTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadsTest02 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadsTest02 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadsTest02 (3).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ThreadsTest02 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadsTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teste.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-15&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/cerc/cerc-cd-api-registro&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\IdeaProjects\maratona-java\src\main\java\academy\devdojo\maratonajava\javacore\ZZFthreads" />
@@ -163,13 +157,14 @@
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\src\main\java\academy\devdojo\maratonajava\javacore\Wnio\test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\maratona-java\src\main\resources" />
+      <recent name="C:\IdeaProjects\maratona-java\src\main\java\academy\devdojo\maratonajava\resources" />
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\folder\subpasta1" />
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\home\jhon\dev" />
       <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\home\jhon" />
-      <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\src\main\java" />
-      <recent name="C:\Users\jhonp\IdeaProjects\maratona-java\src" />
     </key>
     <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="academy.devdojo.maratonajava.javacore.ZZIjdbc.dominio" />
       <recent name="academy.devdojo.maratonajava.javacore.ZZHpadroesDeProjeto.dominio" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -191,20 +186,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DataTransferObjectTest01">
-    <configuration name="AirCraftSingletonEagerTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesDeProjeto.test.AirCraftSingletonEagerTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZHpadroesDeProjeto.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ConnectionFactoryTest01">
     <configuration name="AirCraftSingletonLazyTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesDeProjeto.test.AirCraftSingletonLazyTest01" />
       <module name="maratona-java" />
@@ -231,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurrencyFactoryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesDeProjeto.test.CurrencyFactoryTest01" />
+    <configuration name="ConnectionFactoryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZHpadroesDeProjeto.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,13 +239,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ResourceBundleTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Tresourcebundle.test.ResourceBundleTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Tresourcebundle.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConnectionFactoryTest01" />
+        <item itemvalue="Application.ResourceBundleTest01" />
         <item itemvalue="Application.DataTransferObjectTest01" />
         <item itemvalue="Application.AircraftSingletonEnumTest01" />
         <item itemvalue="Application.AirCraftSingletonLazyTest01" />
-        <item itemvalue="Application.AirCraftSingletonEagerTest01" />
-        <item itemvalue="Application.CurrencyFactoryTest01" />
       </list>
     </recent_temporary>
   </component>
