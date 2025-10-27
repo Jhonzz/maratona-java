@@ -1,0 +1,20 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä‘°¹ûÿÿÿÿ8ÍŞĞ½¡3
+O
+java:S1144"-Remove this unused private "findById" method.(‹–äùùÿÿÿÿ8×ŞĞ½¡3
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÎßÉûúÿÿÿÿ8×ŞĞ½¡3
+C	java:S131""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8äŞĞ½¡3
+G	java:S106"+Replace this use of System.out by a logger.(Úı¬Í8èŞĞ½¡3
+G	java:S106"+Replace this use of System.out by a logger.(ŸÓ÷­8ëŞĞ½¡3
+G	java:S106$"+Replace this use of System.out by a logger.(êÖ‡ò8ìŞĞ½¡3
+G	java:S106&"+Replace this use of System.out by a logger.(¹¹Ÿ8íŞĞ½¡3
+G	java:S106-"+Replace this use of System.out by a logger.(·å¸ú8íŞĞ½¡3
+G	java:S106/"+Replace this use of System.out by a logger.(ØğÂò8îŞĞ½¡3
+L	java:S1061"+Replace this use of System.out by a logger.(ç½ñÔúÿÿÿÿ8ïŞĞ½¡3
+G	java:S106="+Replace this use of System.out by a logger.(”ú½Ş8óŞĞ½¡3
+L	java:S106@"+Replace this use of System.out by a logger.(‰«ÏŞşÿÿÿÿ8ôŞĞ½¡3
+G	java:S106D"+Replace this use of System.out by a logger.(’ŒËÏ8õŞĞ½¡3
+L	java:S106H"+Replace this use of System.out by a logger.(–µ·´üÿÿÿÿ8öŞĞ½¡3
+Š
+java:S1128"hRemove this unused import 'academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository'.(š‚¦•ÿÿÿÿÿ8úŞĞ½¡3

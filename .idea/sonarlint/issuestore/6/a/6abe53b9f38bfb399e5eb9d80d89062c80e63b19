@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù†ëáüÿÿÿÿ8Ùô®»¡3J$011d7b66-5a5a-40fb-ad74-8ace17d5d0dd
+’
+java:S2095i"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖÐ½8Ûô®»¡3J$5826c292-a45a-4276-a665-3caf7310291f
+’
+java:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖÐ½8Ûô®»¡3J$28862d4f-01e0-423c-9c3e-1575b47197b7
+’
+java:S2095o"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖÐ½8Ûô®»¡3J$045885b4-61e9-447e-8f53-2f3524ea7649
+’
+java:S2095v"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖÐ½8Ûô®»¡3J$ecceed02-dd4f-4eec-8209-db14d0af70e8
+’
+java:S2095\"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖÐ½8Ûô®»¡3J$1eccb328-1eb1-4ec1-8a52-60840c473e50
+}
+java:S1118":Add a private constructor to hide the implicit public one.(ü½õˆ8Þô®»¡3J$30a9cf7e-ebe6-48da-8d5c-4187d0cab341
+g
+java:S6905h"Don't use the query "SELECT *".(ÍÝÎ½ÿÿÿÿÿ8çô®»¡3J$4c4b656a-2d1c-456d-9c49-0e9bf2a5d95d
+b
+java:S6905n"Don't use the query "SELECT *".(œûçº8èô®»¡3J$c9a1a492-a9de-4e40-b16c-8ba9a605b967

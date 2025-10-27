@@ -1,0 +1,23 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÄ8Úè÷º¡3J$290e241c-6a7f-4a79-85f6-375d88dfd4cd
+¥
+java:S1192!"bDefine a constant instead of duplicating this literal "Type the number of your operation" 3 times.(Î…ï´8Ûè÷º¡3J$a2dc32d8-0da1-45ee-9192-3c0b85c30b44
+“
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(õÙÆ‚úÿÿÿÿ8àè÷º¡3J$e16ac3ac-2fb0-47be-81b4-601245d48cee
+i	java:S131""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8àè÷º¡3J$4143b3da-1ad2-4e9c-a41d-c16fcd6753f6
+m	java:S106!"+Replace this use of System.out by a logger.(Î…ï´8áè÷º¡3J$b40a5340-60f6-4bd5-90a6-fafdc985846d
+r	java:S106""+Replace this use of System.out by a logger.(ïÚâÀşÿÿÿÿ8áè÷º¡3J$bf96ed15-4779-427d-93d6-15fca6c1c656
+r	java:S106#"+Replace this use of System.out by a logger.(îÛó¢úÿÿÿÿ8áè÷º¡3J$5a43e2a7-9766-4b6f-b5fe-a60af9bae6b2
+r	java:S106$"+Replace this use of System.out by a logger.(öüÀ‚ÿÿÿÿÿ8áè÷º¡3J$6b8fa596-80fd-45ac-ab39-7ca7b4db8514
+m	java:S106("+Replace this use of System.out by a logger.(Î…ï´8áè÷º¡3J$15725075-a69a-4d95-a51d-7638fc89b03a
+r	java:S106)"+Replace this use of System.out by a logger.(ÊÅôéıÿÿÿÿ8áè÷º¡3J$95809c12-68d5-4689-9c47-5e9ead6326f3
+r	java:S106*"+Replace this use of System.out by a logger.(ôı­úÿÿÿÿ8âè÷º¡3J$50674751-49eb-4fa4-a5c4-ed5eafa8eb9e
+r	java:S106+"+Replace this use of System.out by a logger.(é–¥àøÿÿÿÿ8âè÷º¡3J$cc456a9b-9737-45fa-8326-6e93760cc024
+m	java:S106,"+Replace this use of System.out by a logger.(Êà®š8âè÷º¡3J$042d3ad4-3f9e-40ca-a97a-5e3b9f704eb3
+m	java:S106-"+Replace this use of System.out by a logger.(œ‰¤Š8âè÷º¡3J$a6a81d43-aafa-485f-ac6d-fa19375f67d2
+m	java:S1061"+Replace this use of System.out by a logger.(Î…ï´8âè÷º¡3J$368d0c81-0182-4a67-b611-61fd82b3f150
+m	java:S1062"+Replace this use of System.out by a logger.(Ÿ™Û8âè÷º¡3J$c34c2b16-f815-4acc-8940-4fecb2080fd1
+m	java:S1063"+Replace this use of System.out by a logger.(Ó½üö8âè÷º¡3J$6640a48a-64c1-485b-a244-e93fc694b225
+r	java:S1064"+Replace this use of System.out by a logger.(™ƒ¦şÿÿÿÿ8âè÷º¡3J$bfb7a3e6-4a6f-4643-83cd-11f1147024d6
+m	java:S1065"+Replace this use of System.out by a logger.(¸‰‰8âè÷º¡3J$5dca6607-63e5-4ea8-83a9-505b3adb797c
+m	java:S1066"+Replace this use of System.out by a logger.(œ‰¤Š8âè÷º¡3J$541b3d42-fc99-4c6a-acca-3e65f9cd57ae

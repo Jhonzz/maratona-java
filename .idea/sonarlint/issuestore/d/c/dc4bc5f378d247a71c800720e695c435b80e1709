@@ -1,0 +1,16 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä‘°¹ûÿÿÿÿ8İç„º¡3J$0b09852f-04e6-44f8-b8ee-4af6b423cd01
+u
+java:S1144"-Remove this unused private "findById" method.(‹–äùùÿÿÿÿ8åç„º¡3J$de7ba8c8-8c52-4e2b-8437-7b2e1ee684f3
+}
+java:S1118	":Add a private constructor to hide the implicit public one.(©«¥8åç„º¡3J$6b17590f-1546-46b4-94c6-faa87ae8e656
+C	java:S131""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8ÿ­Ñ½¡3
+m	java:S106"+Replace this use of System.out by a logger.(Úı¬Í8íç„º¡3J$1a426dde-ac93-4723-a5ee-cf672b320627
+m	java:S106"+Replace this use of System.out by a logger.(ŞÎ« 8íç„º¡3J$af0e1ecd-60e6-4ef7-9c9b-091fee709c71
+m	java:S106"+Replace this use of System.out by a logger.(Úı¬Í8îç„º¡3J$6357d566-4d64-47f5-97d1-8b7d89a35e46
+m	java:S106""+Replace this use of System.out by a logger.(êÖ‡ò8ïç„º¡3J$71b5cc29-e4a0-4df9-b864-5c3029d1388d
+m	java:S106$"+Replace this use of System.out by a logger.(¹¹Ÿ8ïç„º¡3J$4d968247-1931-4411-b0a9-e937b518787e
+m	java:S106+"+Replace this use of System.out by a logger.(ÅÔ‚¸8ğç„º¡3J$6caf2b41-1f50-4663-8e99-cec939cde7b7
+r	java:S1062"+Replace this use of System.out by a logger.(«½Ø¥øÿÿÿÿ8òç„º¡3J$a14407cc-7697-49d9-a6d8-2c1f84463332
+m	java:S1065"+Replace this use of System.out by a logger.(Ó×öÏ8òç„º¡3J$edccb8cd-f5df-4a1c-b660-0f0a4c6ff21b
+m	java:S1069"+Replace this use of System.out by a logger.(’ŒËÏ8óç„º¡3J$cceff56b-0ca4-4ce7-89c6-eff027f5bf50

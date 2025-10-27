@@ -1,6 +1,9 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıĞ¹8†ëµ’Ç2J$be54e3ce-e3e4-4ad9-acea-e365e655822f
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıĞ¹8ÀŒû–Ï2J$442dbb31-ecf0-45c4-9d99-6c3b1d2663c6
+‹
+java:S2095"HUse try-with-resources or close this "JdbcRowSet" in a "finally" clause.(‹¾”‰8ö¨û–Ï2J$d5643aa7-54df-4c62-b076-08ed186d6a28
 }
-java:S1118":Add a private constructor to hide the implicit public one.(¼ÚŠ8ˆëµ’Ç2J$1c21d427-453a-4a6c-983e-7f7a49cb88f4
+java:S1118
+":Add a private constructor to hide the implicit public one.(¼ÚŠ8ÃŒû–Ï2J$ebb58e30-2194-4932-8180-c9d79a986416
 ~
-java:S6437"6Revoke and change this password, as it is compromised.(”Êâÿÿÿÿÿ8Šëµ’Ç2J$17c5c017-3001-4efe-9678-9572fde3ee4b
+java:S6437"6Revoke and change this password, as it is compromised.(”Êâÿÿÿÿÿ8ÄŒû–Ï2J$e504a372-4144-49ee-90a4-9ce16c42f4f2

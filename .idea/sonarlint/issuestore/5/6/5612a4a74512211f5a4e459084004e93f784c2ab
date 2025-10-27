@@ -1,6 +1,29 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÉÍÚşÿÿÿÿ8½”¨ßÈ2J$20e88582-0032-4d8b-a212-9b4582cfaaac
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÉÍÚşÿÿÿÿ8ƒÔ÷—Ì2J$3bdf67eb-9a63-422b-898f-afdc2eedc617
+©
+java:S1488ˆ"`Immediately return this expression instead of assigning it to the temporary variable "producer".(÷ÙşÚøÿÿÿÿ8†Ô÷—Ì2J$cb981cf0-438d-482c-8a09-3139d05543a1
+™
+java:S1192‹"PDefine a constant instead of duplicating this literal "row Number '{}'" 6 times.(Ñ‘ÿÿÿÿÿÿ8‰Ô÷—Ì2J$574cde04-5eb2-42fa-955a-e6b23aff6931
+¬
+java:S1192O"iDefine a constant instead of duplicating this literal "Error while trying to find all producers" 8 times.(¢•şæ8‰Ô÷—Ì2J$cae88cf9-fa5d-46f6-a68a-c9708c5b1cf3
+œ
+java:S1192D"YDefine a constant instead of duplicating this literal "Finding producer by name" 5 times.(Éş±Í8‰Ô÷—Ì2J$b9b264e0-bd15-4487-9c4a-3c78b9494d55
+¡
+java:S1192o"^Define a constant instead of duplicating this literal "And supports CONCUR_UPDATABLE" 3 times.(£ÉÚÌ8‰Ô÷—Ì2J$a8e4e0f5-0f55-48e1-a14f-c0056fdd6224
+£
+java:S1192m"[Define a constant instead of duplicating this literal "Supports TYPE_FORWARD_ONLY" 3 times.(“£¼»øÿÿÿÿ8ŠÔ÷—Ì2J$64f7db06-57f5-4a15-a2be-468e2e61d567
+Å
+java:S1192E"}Define a constant instead of duplicating this literal "SELECT * FROM anime_store.producer WHERE name like '%%%s%%';" 4 times.(î€¯úşÿÿÿÿ8ŠÔ÷—Ì2J$30d01b83-d0d5-4c70-9cfb-6b7b56736451
+“
+java:S2095ú"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8ß‘‘3J$55f247e2-f091-4691-8be2-10a54dda1785
 }
-java:S1118":Add a private constructor to hide the implicit public one.(ü½õˆ8Â”¨ßÈ2J$497eb8ae-66bd-4ae4-9c68-ef984cc72d1f
-ƒ	java:S1256"<This block of commented-out lines of code should be removed.(ÎÕÊåúÿÿÿÿ8²‘÷ßÈ2J$f0346134-0dc2-4fed-a203-b09b1e584471
-ƒ	java:S1258"<This block of commented-out lines of code should be removed.(´¶šóıÿÿÿÿ8²‘÷ßÈ2J$469a4868-0b6a-4617-be7f-bb5444f5e61b
+java:S1118":Add a private constructor to hide the implicit public one.(ü½õˆ8Ô÷—Ì2J$f91693be-e9e3-4f34-8ace-a96e21c41719
+ƒ	java:S1253"<This block of commented-out lines of code should be removed.(ÎÕÊåúÿÿÿÿ8’Ô÷—Ì2J$59e1ed8e-6502-491f-b4eb-f8f751cf76f7
+ƒ	java:S1255"<This block of commented-out lines of code should be removed.(´¶šóıÿÿÿÿ8’Ô÷—Ì2J$89f45cc8-ffaf-4fe9-b982-f5c6677aeec1
+g
+java:S6905V"Don't use the query "SELECT *".(ÔŸ¼‹øÿÿÿÿ8•Ô÷—Ì2J$d41639f0-9dec-4031-9c24-8fa398989379
+h
+java:S6905†"Don't use the query "SELECT *".(ÔŸ¼‹øÿÿÿÿ8˜Ô÷—Ì2J$c9af8052-a1e0-4c02-b78b-890be0e0b823
+c
+java:S2232š"Remove this call to "isLast()".(‚Íøª8™Ô÷—Ì2J$75ac9aec-5170-4e57-89b5-8620b119fb8f
+„	java:S125¶"<This block of commented-out lines of code should be removed.(º¢Æªúÿÿÿÿ8›Ô÷—Ì2J$250f237b-6ca7-40f1-abe6-99891447f1d9

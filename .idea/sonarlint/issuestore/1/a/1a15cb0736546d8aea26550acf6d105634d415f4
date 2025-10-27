@@ -1,12 +1,5 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·‘Æéúÿÿÿÿ8®£½ßÈ2J$384cc656-33f5-4c49-8b22-50c2cc1a4772
-Œ
-java:S1854"DRemove this useless assignment to local variable "producerToUpdate".(æÇ¹®ÿÿÿÿÿ8±£½ßÈ2J$697c7ab9-e697-4896-9daf-95cec3ce9163
-„
-java:S1854"<Remove this useless assignment to local variable "producer".(½¹¨Åþÿÿÿÿ8±£½ßÈ2J$091b2cac-23d1-4c36-91fe-51c1d34d4a73
-u
-java:S1481"-Remove this unused "producer" local variable.(½¹¨Åþÿÿÿÿ8²£½ßÈ2J$1dc19c66-d0d2-4bac-bda0-161fd36deea0
-}
-java:S1481"5Remove this unused "producerToUpdate" local variable.(æÇ¹®ÿÿÿÿÿ8²£½ßÈ2J$239642ba-5075-4b05-baa5-fffeee12cd42
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(¹¹ÃÛüÿÿÿÿ8³£½ßÈ2J$06b7024e-8098-4d26-9a4d-ff744426a9ba
-~	java:S125"<This block of commented-out lines of code should be removed.(Á–Ò¬8§ŒúßÈ2J$fd83ea2f-8172-4052-90d5-6fa98766d8cf
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·‘Æéúÿÿÿÿ8®£½ßÈ2J$a7ba97e4-801f-427e-8e25-144d5010dfa8
+~	java:S125"<This block of commented-out lines of code should be removed.(×Ç”•8ÄŽé¢ž3J$97d616b7-85d4-4019-8fdc-5e0c70de110c
+~	java:S125"<This block of commented-out lines of code should be removed.(ü¬‡¾8ß²õ¢ž3J$6387548c-f3e7-4997-b0f2-d3b81ace5fb3
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÆßŽýÿÿÿÿ8ß²õ¢ž3J$097e975d-6467-4aef-b4d0-7283f6c94b51

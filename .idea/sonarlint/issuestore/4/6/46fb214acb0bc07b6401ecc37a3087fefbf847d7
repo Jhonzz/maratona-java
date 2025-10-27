@@ -1,0 +1,15 @@
+
+˜	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÆäÚøÿÿÿÿ8Š»Ò¼¡3J$2576f53f-c29d-4874-a0d0-9ff3dc5f52d3
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù†ëáüÿÿÿÿ8Š»Ò¼¡3J$43252ae2-559d-45bd-abaa-684a7f9c431e
+“
+java:S2095š"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8»Ò¼¡3J$a1e9754d-6e0f-4460-b7b9-f9a840254500
+’
+java:S2095{"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8»Ò¼¡3J$6f5d5a9c-cef9-4c50-ae2e-d95ee1dfec63
+“
+java:S2095†"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8»Ò¼¡3J$0e772949-1731-4944-a31d-827d34863a35
+“
+java:S2095‘"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8»Ò¼¡3J$78b1cf16-0f73-4443-9aaa-216625e14dda
+’
+java:S2095r"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½8»Ò¼¡3J$d4bb8c8a-30a6-4e77-8203-9061408c4fb0
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(Âó—îşÿÿÿÿ8»Ò¼¡3J$8e593d21-ef9e-4a3f-8484-735848a88fad
