@@ -3,7 +3,6 @@ package academy.devdojo.maratonajava.javacore.ZZJcrud.service;
 import academy.devdojo.maratonajava.javacore.ZZJcrud.dominio.Anime;
 import academy.devdojo.maratonajava.javacore.ZZJcrud.dominio.Producer;
 import academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository;
-import academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository;
 
 import java.util.Optional;
 import java.util.Scanner;

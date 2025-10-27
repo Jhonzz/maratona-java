@@ -1,6 +1,9 @@
 package academy.devdojo.maratonajava.javacore.Wnio.test;
 
-import java.nio.file.*;
+import java.nio.file.FileSystems;
+import java.nio.file.Path;
+import java.nio.file.PathMatcher;
+import java.nio.file.Paths;
 
 public class PathMatcherTest01 {
     public static void main(String[] args) {

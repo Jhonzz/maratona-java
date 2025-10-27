@@ -3,10 +3,6 @@ package academy.devdojo.maratonajava.javacore.Sformatacao.test;
 // FORMAT É SEMPRE TRANSFORMANDO DE UM OBJETO PARA UMA STRING
 // JÁ PARSE É QUANDO ESTÁ TRANSFORMANDO DE UMA STRING PARA UM OBJETO
 
-import academy.devdojo.maratonajava.javacore.Gassociação.domain.Local;
-
-import javax.swing.text.DateFormatter;
-import java.text.DateFormat;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

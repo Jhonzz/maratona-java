@@ -1,11 +1,5 @@
 package academy.devdojo.maratonajava.javacore.ZZEstreams.test;
 
-import academy.devdojo.maratonajava.javacore.ZZEstreams.dominio.Category;
-import academy.devdojo.maratonajava.javacore.ZZEstreams.dominio.LightNovel;
-import academy.devdojo.maratonajava.javacore.ZZEstreams.dominio.Promotion;
-
-import java.util.*;
-import java.util.stream.Collectors;
 import java.util.stream.LongStream;
 import java.util.stream.Stream;
 

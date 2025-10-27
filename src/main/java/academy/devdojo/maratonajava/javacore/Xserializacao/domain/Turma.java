@@ -1,7 +1,5 @@
 package academy.devdojo.maratonajava.javacore.Xserializacao.domain;
 
-import java.io.Serializable;
-
 public class Turma {
     private String nome;
 

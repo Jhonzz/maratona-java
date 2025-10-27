@@ -1,6 +1,5 @@
 package academy.devdojo.maratonajava.javacore.ZZIjdbc.listener;
 
-import lombok.SneakyThrows;
 import lombok.extern.log4j.Log4j2;
 
 import javax.sql.RowSet;

@@ -7,8 +7,6 @@ Eu <nome>, morando no endereço <endereço>,
 confirmo que recebi o salário de <salario>, na data <data>
  */
 
-import java.util.Date;
-
 public class Aula03TiposPrimitivos {
     public static void main(String[] args) {
         String nome = "Jhon";

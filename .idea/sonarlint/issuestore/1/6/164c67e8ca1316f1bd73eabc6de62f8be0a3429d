@@ -1,4 +1,6 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ïú’Éıÿÿÿÿ8ö÷À“Ğ2J$dfe3e664-df63-4a49-8b18-9ce18abd554d
-É
-java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øƒ¦–şÿÿÿÿ8ø÷À“Ğ2J$e1fd57af-a525-47f6-a582-d2f7892bf204
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ïú’Éıÿÿÿÿ8ö÷À“Ğ2J$b14dae3e-2a67-4520-ba12-cdf670096818
+£
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µáÎüÿÿÿÿ8£¡¼¢3
+h
+java:S6201"FReplace this instanceof check and cast with 'instanceof RowSet rowset'(¡»¢üùÿÿÿÿ8”£¡¼¢3

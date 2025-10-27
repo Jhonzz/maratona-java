@@ -1,7 +1,6 @@
 package academy.devdojo.maratonajava.javacore.ZZKJunit.domain;
 
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 
 @Data
